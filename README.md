@@ -18,6 +18,7 @@
 |**Personalized Push System**|Built a **scalable push platform** that fundamentally changed how we engage users, **achieving a 200% increase** in CTR by leveraging real-time data and advanced feature modeling, directly impacting user retention and content consumption.|
 |**Real-time Risk Monitoring** |Developed a robust **real-time risk monitoring system** with 92% accuracy, allowing the business to **proactively prevent financial and safety losses**. The system's automated processes also **improved our operational efficiency by 60%**.|
 
+[all projects](https://docs.google.com/presentation/d/1d7lYxMaBxySE_0n2Gsi1l1HSEd89_K9UvYWAN2JagQw/edit?slide=id.g373deac6889_0_0#slide=id.g373deac6889_0_0)
 
 ### 🔥 Core Technical Skills
 |Domain |Tech Stack|
