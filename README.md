@@ -27,6 +27,12 @@
 |**Big Data**|Flink, Spark, Kafka|
 |**Cloud**|Alibaba Cloud, Azure|
 
+
+### 🌐 Let's Connect
+
+* Email: tzy313@gmail.com
+
+* Phone: +86 18511303365
 <!--
 **siyu618/siyu618** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
