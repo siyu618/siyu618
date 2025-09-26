@@ -28,6 +28,9 @@
 |**Big Data**|Flink, Spark, Kafka|
 |**Cloud**|Alibaba Cloud, Azure|
 
+### 🇨🇳 LeetCode CN
+
+[![LeetCode Stats CN](https://leetcard.jacoblin.cool/siyu618?site=cn)](https://leetcode.cn/u/siyu618/)
 
 ### 🌐 Let's Connect
 
