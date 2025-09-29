@@ -12,7 +12,7 @@
 ### 🚀 Featured Projects
 |Project|Description |
 |---|---|
-|**AI RAG Performance Engine**|	Architected a RAG Evaluation Framework (using Ragas and Multi-Query Retriever) to solve LLM hallucination and low-recall issues. |
+|**AI RAG Performance Engine**|	Architected a RAG Evaluation Framework (using Ragas and Multi-Query Retriever) to solve **LLM hallucination and low-recall issues**. |
 |**Web3 & Blockchain**|Led the creation of a **BlockSight on-chain profiling platform** to unlock valuable user and token insights across multiple chains, **driving new business opportunities** in DeFi and marketing through a high-performance blockchain explorer and a token smart scoring system.|
 |**Kubernetes Multi-Cloud Scheduling**|Architected a **Kubernetes Federation Scheduler** to enable seamless, highly-available deployment across multiple cloud providers, **ensuring business continuity** and reducing vendor lock-in risk.|
 |**Flink Operator**|Developed a **cross-cluster Flink Operator** to provide centralized management and orchestration for Flink jobs, **significantly improving our DevOps efficiency** and ensuring the stability of mission-critical data pipelines.|
