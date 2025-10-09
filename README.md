@@ -38,6 +38,8 @@
 * Email: tzy313@gmail.com
 
 * Phone: +86 18511303365
+
+* HF: https://huggingface.co/siyu618
 <!--
 **siyu618/siyu618** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
