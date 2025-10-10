@@ -1,5 +1,5 @@
 ## Hi there 👋， I'm Zhiyu Tian
-### 🚀 **Backend & Distributed Systems Architect | Web3 & Data Engineer**
+### 🚀 **LLM Agent & RAG Engineer**| Backend & Distributed Systems Architect | Web3 & Data Engineer**
 
 * 🌐 13+ years in backend & cloud-native architecture (Microsoft, OPPO, Didi, etc.)
 
@@ -7,11 +7,13 @@
 
 * 🔗 Passionate about **Web3, blockchain protocols, DEX, and on-chain data analytics**
 
-* 🧩 Recent focus on **Flink stream processing, Token Smart Score, multi-chain user profiling**
+* 🧩 Recent focus on **LLM Agent & RAG system construction** (e.g., DeepSeek/Tushare Agent, Multi-Document RAG), Flink stream processing, and Token Smart Score analytics.
 
 ### 🚀 Featured Projects
 |Project|Description |
 |:---|:---|
+|**AI Financial Data Agent** | Developed an intelligent **AI Agent** powered by **DeepSeek LLM** to perform natural language querying and analysis on financial data, automatically leveraging the **Tushare API** and exposed via a **Gradio UI**. [GitHub Link](https://github.com/siyu618/tushare-agent-deepseek-gradio) |
+|**Multi-Document RAG Engine** | Implemented a high-performance **Retrieval-Augmented Generation (RAG)** system using **Hugging Face** models and **FAISS** to efficiently process and synthesize answers from *multiple* unstructured documents, enhancing knowledge retrieval accuracy. [GitHub Link](https://github.com/siyu618/hf-rag-multi) |
 |**AI RAG Performance Engine**|	Architected a RAG Evaluation Framework (using Ragas and Multi-Query Retriever) to solve **LLM hallucination and low-recall issues**. |
 |**Web3 & Blockchain**|Led the creation of a **BlockSight on-chain profiling platform** to unlock valuable user and token insights across multiple chains, **driving new business opportunities** in DeFi and marketing through a high-performance blockchain explorer and a token smart scoring system.|
 |**Kubernetes Multi-Cloud Scheduling**|Architected a **Kubernetes Federation Scheduler** to enable seamless, highly-available deployment across multiple cloud providers, **ensuring business continuity** and reducing vendor lock-in risk.|
@@ -24,6 +26,7 @@
 ### 🔥 Core Technical Skills
 |Domain |Tech Stack|
 |---|---|
+| **AI/LLM** | **LLM Agents, Retrieval-Augmented Generation (RAG), Hugging Face, FAISS** |
 |**Architecture**|Cloud-Native Architecture, High-Concurrency, Distributed Systems, Microservices|
 |**Languages**|Java, Python, Go, Rust|
 |**Big Data**|Flink, Spark, Kafka|
