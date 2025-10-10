@@ -1,5 +1,5 @@
 ## Hi there 👋， I'm Zhiyu Tian
-### 🚀 **LLM Agent & RAG Engineer**| Backend & Distributed Systems Architect | Web3 & Data Engineer**
+### 🚀 LLM Agent & RAG Engineer**| Backend & Distributed Systems Architect | Web3 & Data Engineer
 
 * 🌐 13+ years in backend & cloud-native architecture (Microsoft, OPPO, Didi, etc.)
 
