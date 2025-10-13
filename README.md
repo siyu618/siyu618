@@ -1,4 +1,19 @@
 ## Hi there 👋， I'm Zhiyu Tian
+
+
+## 🚀 Featured Projects
+
+<a href="https://github.com/siyu618/tushare-agent-deepseek-gradio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=siyu618&repo=tushare-agent-deepseek-gradio&theme=radical" />
+</a>
+<a href="https://github.com/siyu618/hf-rag-multi">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=siyu618&repo=hf-rag-multi&theme=github_dark" />
+</a>
+<a href="https://github.com/siyu618/books">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=siyu618&repo=books&theme=tokyonight" />
+</a>
+
+
 ### 🚀 LLM Agent & RAG Engineer**| Backend & Distributed Systems Architect | Web3 & Data Engineer
 
 * 🌐 13+ years in backend & cloud-native architecture (Microsoft, OPPO, Didi, etc.)
