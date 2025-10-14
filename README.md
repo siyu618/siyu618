@@ -9,7 +9,7 @@
 <!-- |<a href="https://github.com/siyu618/books"><img src="https://github-readme-stats.vercel.app/api/pin/?username=siyu618&repo=books&theme=github_dark" /></a>|| -->
 
 
-### 🚀 LLM Agent & RAG Engineer**| Backend & Distributed Systems Architect | Web3 & Data Engineer
+### 🚀 LLM Agent & RAG Engineer| Backend & Distributed Systems Architect | Web3 & Data Engineer
 
 * 🌐 13+ years in backend & cloud-native architecture (Microsoft, OPPO, Didi, etc.)
 
