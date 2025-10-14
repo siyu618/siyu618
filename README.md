@@ -2,11 +2,11 @@
 
 
 ## 🚀 Featured Projects
-|Project|link|
+|AI Project|link|
 |:---|:---|
 |<a href="https://github.com/siyu618/tushare-agent-deepseek-gradio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=siyu618&repo=tushare-agent-deepseek-gradio&theme=tokyonight" /></a>|[huggingface link](https://huggingface.co/spaces/siyu618/tushare-agent-deepseek-gradio)|
 |<a href="https://github.com/siyu618/hf-rag-multi"><img src="https://github-readme-stats.vercel.app/api/pin/?username=siyu618&repo=hf-rag-multi&theme=radical" /></a>||
-|<a href="https://github.com/siyu618/books"><img src="https://github-readme-stats.vercel.app/api/pin/?username=siyu618&repo=books&theme=github_dark" /></a>||
+<!-- |<a href="https://github.com/siyu618/books"><img src="https://github-readme-stats.vercel.app/api/pin/?username=siyu618&repo=books&theme=github_dark" /></a>|| -->
 
 
 ### 🚀 LLM Agent & RAG Engineer**| Backend & Distributed Systems Architect | Web3 & Data Engineer
