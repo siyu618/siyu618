@@ -4,6 +4,8 @@
 ## 🚀 Featured Projects
 |AI Project|link|
 |:---|:---|
+|<a href="https://github.com/siyu618/investment-research-agent"><img src="https://github-readme-stats.vercel.app/api/pin/?username=siyu618&repo=investment-research-agent&theme=tokyonight" /></a>||
+|<a href="https://github.com/siyu618/engineering-ai-standards"><img src="https://github-readme-stats.vercel.app/api/pin/?username=siyu618&repo=engineering-ai-standards&theme=tokyonight" /></a>||
 |<a href="https://github.com/siyu618/tushare-agent-deepseek-gradio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=siyu618&repo=tushare-agent-deepseek-gradio&theme=tokyonight" /></a>|[huggingface link](https://huggingface.co/spaces/siyu618/tushare-agent-deepseek-gradio)|
 |<a href="https://github.com/siyu618/hf-rag-multi"><img src="https://github-readme-stats.vercel.app/api/pin/?username=siyu618&repo=hf-rag-multi&theme=radical" /></a>||
 <!-- |<a href="https://github.com/siyu618/books"><img src="https://github-readme-stats.vercel.app/api/pin/?username=siyu618&repo=books&theme=github_dark" /></a>|| -->
@@ -22,6 +24,8 @@
 ### 🚀 Featured Projects
 |Project|Description |
 |:---|:---|
+|**Investment Research Agent** | Architected an intelligent multi-agent investment research system powered by **LangGraph** and **MCP (Model Context Protocol)**, enabling automated real-time data ingestion, market intelligence analysis, and structured report generation. [GitHub Link](https://github.com/siyu618/investment-research-agent) |
+|**Engineering AI Standards** | Curated production-grade engineering standards and SOPs for AI-assisted development and agent construction, featuring context optimization, structured prompting, and workflow best practices. [GitHub Link](https://github.com/siyu618/engineering-ai-standards) |
 |**AI Financial Data Agent** | Developed an intelligent **AI Agent** powered by **DeepSeek LLM** to perform natural language querying and analysis on financial data, automatically leveraging the **Tushare API** and exposed via a **Gradio UI**. [GitHub Link](https://github.com/siyu618/tushare-agent-deepseek-gradio) |
 |**Multi-Document RAG Engine** | Implemented a high-performance **Retrieval-Augmented Generation (RAG)** system using **Hugging Face** models and **FAISS** to efficiently process and synthesize answers from *multiple* unstructured documents, enhancing knowledge retrieval accuracy. [GitHub Link](https://github.com/siyu618/hf-rag-multi) |
 |**Web3 & Blockchain**|Led the creation of a **BlockSight on-chain profiling platform** to unlock valuable user and token insights across multiple chains, **driving new business opportunities** in DeFi and marketing through a high-performance blockchain explorer and a token smart scoring system.|
@@ -35,7 +39,7 @@
 ### 🔥 Core Technical Skills
 |Domain |Tech Stack|
 |---|---|
-| **AI/LLM** | **LLM Agents, Retrieval-Augmented Generation (RAG), Hugging Face, FAISS** |
+| **AI/LLM** | **LLM Agents, LangGraph, MCP, Retrieval-Augmented Generation (RAG), Hugging Face, FAISS** |
 |**Architecture**|Cloud-Native Architecture, High-Concurrency, Distributed Systems, Microservices|
 |**Languages**|Java, Python, Go, Rust|
 |**Big Data**|Flink, Spark, Kafka|
@@ -66,5 +70,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
