@@ -1,14 +1,33 @@
 ## Hi there 👋， I'm Zhiyu Tian
 
+## 🚀 AI Projects
 
-## 🚀 Featured Projects
-|AI Project|link|
-|:---|:---|
-|<a href="https://github.com/siyu618/investment-research-agent"><img src="https://github-readme-stats.vercel.app/api/pin/?username=siyu618&repo=investment-research-agent&theme=tokyonight" /></a>||
-|<a href="https://github.com/siyu618/engineering-ai-standards"><img src="https://github-readme-stats.vercel.app/api/pin/?username=siyu618&repo=engineering-ai-standards&theme=tokyonight" /></a>||
-|<a href="https://github.com/siyu618/tushare-agent-deepseek-gradio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=siyu618&repo=tushare-agent-deepseek-gradio&theme=tokyonight" /></a>|[huggingface link](https://huggingface.co/spaces/siyu618/tushare-agent-deepseek-gradio)|
-|<a href="https://github.com/siyu618/hf-rag-multi"><img src="https://github-readme-stats.vercel.app/api/pin/?username=siyu618&repo=hf-rag-multi&theme=radical" /></a>||
-<!-- |<a href="https://github.com/siyu618/books"><img src="https://github-readme-stats.vercel.app/api/pin/?username=siyu618&repo=books&theme=github_dark" /></a>|| -->
+### 📈 Investment Research Agent
+Multi-agent investment research platform with workflow orchestration, MCP integration, and automated report generation.
+
+- 🔗 https://github.com/siyu618/investment-research-agent
+
+---
+
+### 🤖 Engineering AI Standards
+Production-ready AI engineering standards, Claude Skills, reusable workflows, and best practices for AI-assisted software development.
+
+- 🔗 https://github.com/siyu618/engineering-ai-standards
+
+---
+
+### 💹 Tushare AI Agent
+Natural-language financial data assistant powered by DeepSeek and Tushare, with a Gradio web interface.
+
+- GitHub: https://github.com/siyu618/tushare-agent-deepseek-gradio
+- Demo: https://huggingface.co/spaces/siyu618/tushare-agent-deepseek-gradio
+
+---
+
+### 📚 HF RAG Multi
+A multi-document Retrieval-Augmented Generation (RAG) system built with FAISS, BM25, Cross-Encoder reranking, and Hugging Face models.
+
+- 🔗 https://github.com/siyu618/hf-rag-multi
 
 
 ### 🚀 LLM Agent & RAG Engineer| Backend & Distributed Systems Architect | Web3 & Data Engineer
